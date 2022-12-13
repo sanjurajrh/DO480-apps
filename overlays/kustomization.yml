@@ -4,4 +4,4 @@ bases:
   - ../base
 namePrefix: dev-
 resources:
-  - route.yaml
+  - route-prod.yaml
