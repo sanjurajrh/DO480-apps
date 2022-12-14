@@ -4,7 +4,7 @@ metadata:
   labels:
     app: todonodejs
     name: route-frontend
-  name: dev-frontend
+  name: frontend
   namespace: mysql
 spec:
   host: todo.apps.ocp4.example.com
